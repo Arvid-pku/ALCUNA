@@ -4,11 +4,12 @@
 ### Demonstration of ALCUNA
 ![Demonstration of ALCUNA](Demonstration.png)
 
-### algorithm
+### Algorithm
 ![algorithm](Algorithm.png)
 
 
 ## Data Structure
+Everyone can get our dataset from [here](https://drive.google.com/drive/folders/1P2Yt4XM-uSzfJoec4psIhpk-mfm-K3R1?usp=share_link).
 
 ### Meta Data 
 
