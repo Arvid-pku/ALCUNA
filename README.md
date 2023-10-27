@@ -1,5 +1,5 @@
 # 🐐 ALCUNA: Large Language Models Meet New Knowledge
-
+Paper link: https://arxiv.org/abs/2310.14820v1
 ## KnowGen: Entity Knowledge Generation Method
 ### Demonstration of ALCUNA
 ![Demonstration of ALCUNA](Demonstration.png)
@@ -48,3 +48,15 @@ Each question is structured as following,
   - `related_property`: the property of the artificial entity related to the current question. If `difference` is `'variation'`, it is a tuple of `(old_property, new_property)`. For other cases, it is a *property structure*.
   - `difference`: the difference type of `related_property`. One of `['extension', 'variation', 'heredity', 'dropout']`
   - `hop_triplets` (optional): the chain of relation triplets corresponding to the multi-hop question.Only available for `Knowledge Association` dataset.
+
+## Cite
+```
+@misc{yin2023alcuna,
+      title={ALCUNA: Large Language Models Meet New Knowledge}, 
+      author={Xunjian Yin and Baizhou Huang and Xiaojun Wan},
+      year={2023},
+      eprint={2310.14820},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
