@@ -49,7 +49,8 @@ Each question is structured as following,
   - `difference`: the difference type of `related_property`. One of `['extension', 'variation', 'heredity', 'dropout']`
   - `hop_triplets` (optional): the chain of relation triplets corresponding to the multi-hop question.Only available for `Knowledge Association` dataset.
 
-## Cite
+## Citations
+Please cite the paper and star this repo if you use ALCUNA (or KnowGen) and find it interesting/useful, thanks!
 ```
 @misc{yin2023alcuna,
       title={ALCUNA: Large Language Models Meet New Knowledge}, 
